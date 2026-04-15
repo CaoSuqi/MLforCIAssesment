@@ -1,0 +1,6 @@
+mouse,mahalanobis_distance,is_outlier_mahal,is_outlier_isoforest,outlier_score
+B3,1.7888571900996506,False,True,1
+B1,1.7888558751291315,False,False,0
+B5,1.7888568414350843,False,False,0
+C2,1.7888541488121186,False,False,0
+C4,1.7888575804713145,False,False,0
